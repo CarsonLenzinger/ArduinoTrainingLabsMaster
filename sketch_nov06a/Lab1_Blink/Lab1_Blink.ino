@@ -1,5 +1,5 @@
 /*Programmer: Carson Lenzinger
- * Date: 11.6.19
+ * Date: 11.14.19
  * Program: digitalRead() & the Serial Port
  * 
  * Reads a digital input on pin2, prints the results to the serial monitor.
