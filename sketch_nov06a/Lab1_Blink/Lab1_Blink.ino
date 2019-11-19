@@ -6,7 +6,7 @@
  */
 
 //digital pin2 has a push button attached to it
-int pushButton = 2;
+int pushButton = 3;
 
 
 
@@ -22,6 +22,6 @@ void loop() {
 int buttonState = digitalRead(pushButton);
 // print out the state of the button
 Serial.println(buttonState);
-delay(250)  // delay in between readings for stability
+delay(250);  // delay in between readings for stability
 
-  }
+}
