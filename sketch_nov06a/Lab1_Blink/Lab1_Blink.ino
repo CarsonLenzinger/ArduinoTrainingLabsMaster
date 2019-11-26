@@ -4,7 +4,7 @@
  * 
  * This program will turn on an LED for specified amounts of time, turn it off, and back on in a While Loop.
  * 
- * Update: 11.22.19
+ * Update: 11.26.19
  * Program: Update Blink to allow my LED to fade
  */
 
