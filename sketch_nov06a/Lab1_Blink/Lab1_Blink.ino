@@ -6,7 +6,7 @@
  */
 
 //digital pin2 has a push button attached to it
-int pushButton = 2;
+int pushButton = 3;
 
 
 
